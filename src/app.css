@@ -1,0 +1,17 @@
+
+
+body {
+    background-color: rgba(111, 111, 111, 0.277);
+    background-blend-mode: soft-light;
+    font-family: sans-serif;
+ 
+    display: block;
+}
+
+.inputbox {
+    position:absolute; left:610px; top:300px;
+    background-color: rgb(242, 242, 242);
+}
+button {
+    font-family: sans-serif;
+}
